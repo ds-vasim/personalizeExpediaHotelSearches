@@ -1,6 +1,6 @@
 # personalizeExpediaHotelSearches
 
-The original data set is obtained from Kaggle.com and consists of a representative sample of 99,917,530
+The original [data set](https://www.kaggle.com/c/expedia-personalized-sort/data) is obtained from Kaggle.com and consists of a representative sample of 99,917,530
 hotels. Also, 52 features are included, such as: price, user history, competitors, etc.
 
 1. The booking rate is 2.74%.
